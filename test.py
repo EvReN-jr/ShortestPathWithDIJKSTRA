@@ -1,0 +1,5 @@
+dj=DIJKSTRA(10,["a","b","c","d","e","f","g","h","i","j"])
+dj.automatic_create_graph([1,100])
+#dj.manuel_create_graph()
+dj.create_tuple()
+dj.calculate_route("a","f")
